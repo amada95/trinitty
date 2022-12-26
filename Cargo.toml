@@ -1,0 +1,10 @@
+[package]
+name = "trinitty"
+version = "0.1.0"
+authors = ["Amada Mackey <amada.mackey@utexas.edu>"]
+license = "GPL-3.0-only"
+edition = "2021"
+
+[dependencies]
+tui	= "0.19"
+crossterm = "0.25"
